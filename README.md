@@ -1,4 +1,4 @@
-# Demo1
+cd # Demo1
 This is my first Repository
 <br>
-Author - Abdul Affan
+Author - Abdul Affan(Bnglr)
